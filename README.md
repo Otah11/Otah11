@@ -4,10 +4,10 @@
 
 
 👀 Tecnologías y Herramientas
--Frontend: React, HTML, CSS, JavaScript, Angular( learning )
--Backend: NestJS, Node.js, Express.js
--Base de Datos: PostgreSQL, MySQL
--Otros: Git, Docker, REST APIs
+- Frontend: React, HTML, CSS, JavaScript, Angular( learning )
+- Backend: NestJS, Node.js, Express.js
+- Base de Datos: PostgreSQL, MySQL
+- Otros: Git, Docker, REST APIs
 
 
 - 👋 Hi, I’m @Otah11
