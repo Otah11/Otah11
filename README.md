@@ -15,12 +15,12 @@ Actualmente busco una oportunidad como programador en una empresa en la que pued
 
 
 
-🛠️ **Tecnologías y Herramientas**
+🛠️ **Tecnologies & Tools/Tecnologías y Herramientas**
 - **Frontend:** React, HTML, CSS, JavaScript, Angular( learning )
 - **Backend:** NestJS, Node.js, Express.js
-- **Base de Datos:** PostgreSQL, MySQL
-- **Otros:** Git, Docker, REST APIs
+- **Data Base:** PostgreSQL, MySQL
+- **Other:** Git, Docker, REST APIs
 
 ###
-📧 **Contacto**
+📧 **Contact/Contacto**
 Correo electrónico: juanalbertoaraujo@gmail.com
