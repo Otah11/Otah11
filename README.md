@@ -23,4 +23,4 @@ Actualmente busco una oportunidad como programador en una empresa en la que pued
 
 ###
 📧 **Contact/Contacto**
-Correo electrónico: juanalbertoaraujo@gmail.com
+E-Mail: juanalbertoaraujo@gmail.com
