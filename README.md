@@ -16,7 +16,7 @@ Actualmente busco una oportunidad como programador en una empresa en la que pued
 
 
 🛠️ **Tecnologies & Tools/Tecnologías y Herramientas**
-- **Frontend:** React, HTML, CSS, JavaScript, Angular( learning )
+- **Frontend:** React, HTML, CSS, JavaScript, TypeScript, Angular( learning )
 - **Backend:** NestJS, Node.js, Express.js
 - **Data Base:** PostgreSQL, MySQL
 - **Other:** Git, Docker, REST APIs
